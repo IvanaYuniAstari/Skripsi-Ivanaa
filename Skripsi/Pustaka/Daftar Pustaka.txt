@@ -93,3 +93,6 @@ Pengertian Library:
 Lateef, U., O., Ogunsanwo, G., and Owoade, A. (2016). INTRODUCTION TO COMPUTER PROGRAMMING (BASIC).
 
 
+Pengertian IoT:
+Stoyanova,M., Nikoloudakis, Y., Panagiotakis, S., Pallis, E., and Markakis, E. K.(2019). A Survey on The Internet of Things (IoT) Forensics: Challenges, approaches and Open Issue.
+
