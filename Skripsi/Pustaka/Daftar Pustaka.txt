@@ -96,3 +96,7 @@ Lateef, U., O., Ogunsanwo, G., and Owoade, A. (2016). INTRODUCTION TO COMPUTER P
 Pengertian IoT:
 Stoyanova,M., Nikoloudakis, Y., Panagiotakis, S., Pallis, E., and Markakis, E. K.(2019). A Survey on The Internet of Things (IoT) Forensics: Challenges, approaches and Open Issue.
 
+Solenoid:
+Shaputra, R., Gunoto, P., dan Irsyam, M. (2019). KRAN AIR OTOMATIS PADA TEMPAT BERWUDHU MENGGUNAKAN SENSOR ULTRASONIK BERBASIS ARDUINO UNO
+
+Fadhlillah, Aji Gautama Putrada, Sidik Prabowo (2019). Water Level Controller pada Pemandian Pintar Menggunakan Fuzzy Logic dan Solenoid Valve
